@@ -42,5 +42,12 @@ Cenário final:
 - Data leakage compromete não só o modelo, mas também os resultados financeiros
 - **Viabilidade prática** deve ser pensada desde a seleção de variáveis  
 
+## Links Úteis:
 
+- 📄 Artigo no LinkedIn: [Link](https://www.linkedin.com/pulse/da-modelagem-%C3%A0-entrega-real-uma-jornada-pr%C3%A1tica-para-garantir-f%C3%A9lix-7njxf/) 
+
+✍️ Sequência de artigos no Medium documentando o processo de aprendizado durante o desenvolvimento deste projeto:
+- [Artigo 1 - Foco no Entendimento de Negócio](https://medium.com/@fagna.felix/do-modelo-%C3%A0-estrat%C3%A9gia-como-medir-o-impacto-financeiro-de-uma-solu%C3%A7%C3%A3o-de-machine-learning-no-ba80e5231085) 
+- [Artigo 2 - Foco na Modelagem](https://medium.com/@fagna.felix/do-modelo-%C3%A0-estrat%C3%A9gia-um-caso-de-sucesso-na-gera%C3%A7%C3%A3o-de-receita-com-machine-learning-parte-ii-237606db091f) 
+- [Artigo 3 – Corrigindo Data Leakage](https://medium.com/@fagna.felix/do-modelo-%C3%A0-estrat%C3%A9gia-corrigindo-o-data-leakage-e-tornando-a-solu%C3%A7%C3%A3o-pronta-para-o-mundo-real-840390c49fa1)
 
